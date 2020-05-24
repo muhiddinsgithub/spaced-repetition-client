@@ -2,9 +2,9 @@
 
 This is an amazing user- and mobile-friendly app for new language learners. It interactively engages a user to play with new words and efficiently helps memorize them very fast. It also tracks user answers feedback(correct counts, incorrect counts, total scores).
 
-[Client repo](https://github.com/thinkful-ei-macaw/spaced-repetition-client-mpg)
+[Client repo](https://github.com/muhiddinsgithub/spaced-repetition-client)
 
-[Server repo](https://github.com/thinkful-ei-macaw/spaced-repetition-server-mpg)
+[Server repo](https://github.com/muhiddinsgithub/spaced-repetition-server)
 
 [Live](https://duolang.org/)
 
@@ -12,7 +12,7 @@ Designed by [Glen](https://github.com/Nekotree) & [Muhiddin](https://github.com/
 
 # Screenshots
 
-# DESKTOP VIEW
+## DESKTOP VIEW
 
 ![Screenshot1](./screenshots/screenshot1.png)
 ![Screenshot2](./screenshots/screenshot2.png)
@@ -21,7 +21,7 @@ Designed by [Glen](https://github.com/Nekotree) & [Muhiddin](https://github.com/
 ![Screenshot5](./screenshots/screenshot5.png)
 ![Screenshot6](./screenshots/screenshot6.png)
 
-# MOBILE VIEW
+## MOBILE VIEW
 
 
 ![Screenshot7](./screenshots/screenshot7.png)
